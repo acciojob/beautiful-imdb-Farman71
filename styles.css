@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+      body {
+        margin: 0px;
+        padding: 0px;
+      }
+      .container {
+        background-color: red;
+        height: 450px;
+        width: 300px;
+        margin: 100px auto;
+      }
+      .moviePic {
+        height: 100%;
+        width: 100%;
+      }
+      .movieDetail {
+        color: white;
+        text-shadow: tomato;
+        position: relative;
+        top: -450px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        letter-spacing: 2px;
+        text-align: center;
+        font-size: 20px;
+        text-transform: uppercase;
+        opacity: 100%;
+        width: 100%;
+      }
